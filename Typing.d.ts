@@ -1,6 +1,6 @@
 type Post = {
     title: string,
     summary: string,
-    image: never,
+    image: any,
     slug: string,
 }
